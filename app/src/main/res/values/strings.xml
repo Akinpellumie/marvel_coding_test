@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">marvel_coding_test</string>
+    <string name="title_character">Character</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="char_image">character image</string>
+</resources>
